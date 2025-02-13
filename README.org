@@ -1,0 +1,8 @@
+#+OPTIONS: toc:nil
+
+* Who am I?
+
+I'm an +ArchLinux user+ GNU/Boykisser. I use GNU Guix btw.
+I like Lisp dialects and other things.
+
+[[file:image/boykisser.jpg]]
