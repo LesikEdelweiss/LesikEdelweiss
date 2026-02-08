@@ -18,6 +18,7 @@ For reference this is me:
 I use GNU/Linux a lot.
 Especially GNU Guix. I really like declarative and minimalistic computing.
 If you're on functional side of programming, we probably are friends already!
+I listen to hyperpop a lot. Like really a lot. Also experimental techno!
 
 * My (programming) languages!
 
